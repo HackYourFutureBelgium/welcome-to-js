@@ -3,20 +3,21 @@
 console.log('--- in execution phase ---');
 
 /*
-  environment:
+  environment: edge
 
-  name:
-  message:
+  name: ReferenceError
+  message: welf is not defined
 
-  location:
+  location: 20:6 
 
-  life cycle:
+  life cycle: execution
 
-  the mistake:
+  the mistake: the variable does not declared 
 
-  the fix(es):
+  the fix(es): should assign variable correctly 
 */
-
+let welf = 'ingrad';
+/*
 welf = 'ingrad';
-
+*/
 console.log(welf);
