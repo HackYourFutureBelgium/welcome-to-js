@@ -28,3 +28,6 @@ console.log(d);
 d = 'good bye ' + c;
 
 console.log(d);
+
+/* hello Pieter Rabbit
+good bye Pieter Rabbit

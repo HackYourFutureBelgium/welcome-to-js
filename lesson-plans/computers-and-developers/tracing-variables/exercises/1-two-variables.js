@@ -22,3 +22,6 @@ console.log(y);
 y = 'good bye ' + x;
 
 console.log(y);
+
+/* hello Pieter
+good bye Pieter

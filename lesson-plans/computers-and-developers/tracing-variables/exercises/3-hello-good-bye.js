@@ -18,3 +18,6 @@ let greeting = 'hello ' + fullName;
 greeting = 'good bye ' + fullName;
 
 console.log(greeting);
+
+/*full = Peter Rabbit
+greeting = goodbye Peter rabbit
