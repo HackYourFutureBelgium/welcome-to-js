@@ -10,15 +10,17 @@
 */
 
 // trace the program a few times with different values
-
+// Declare a variable x and initialize it to the value 'pieter'
 let x = 'Pieter';
 // let x = 'Blake';
 // let x = 'George';
-
+// Read the variable x
+// Declare a variable y and initialize it to the value ' hello Pieter
 let y = 'hello ' + x;
-
+//Read the variable y 
 console.log(y);
-
+//Read the variable y
+// assign the variable y to 'good bye pieter'
 y = 'good bye ' + x;
-
+//Read the variable y
 console.log(y);
