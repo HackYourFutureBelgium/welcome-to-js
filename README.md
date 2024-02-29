@@ -1,4 +1,4 @@
-Welcome to JS || [Inside JS >>>](https://github.com/DeNepo/inside-js)
+<!-- Welcome to JS || [Inside JS >>>](https://github.com/DeNepo/inside-js) -->
 
 # Welcome to JS
 
