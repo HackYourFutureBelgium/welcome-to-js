@@ -253,8 +253,8 @@ collaboratively on a code base.
       2. pull the changes from your fork to your computer
 3. Navigate to the module repository in terminal
    - `$ cd welcome-to-js`
-4. Run the `study` command from your CLI
-   - `$ study`
+4. Run the `lenses2` command from your CLI
+   - `$ lenses2`
 5. The material will open in your default browser, you're good to go!
    - you can read the `study-lenses` user guide from your browser by navigating
      to `localhost:xxxx?--help`

@@ -1,4 +1,8 @@
-# Week 1
+# Computers & Developers
+
+Explore how Computers and Developers read the same code in different ways.
+
+---
 
 ## Prep Work
 
@@ -17,19 +21,28 @@
   - [JS Fundamentals - Variables](https://javascript.info/variables)
   - [JS Variables](https://education.launchcode.org/intro-to-professional-web-dev/chapters/data-and-variables/variables.html)
   - [JavaScript Variables and Constants](https://www.programiz.com/javascript/variables-constants)
-- from `javascript.info`: [DevTools](https://javascript.info/devtools),
-  [Debugging Chrome](https://javascript.info/debugging-chrome)
-- Study
-  [/3-understanding-programs/1-predicting-execution](../../3-understanding-programs/1-predicting-execution/?--defaults)
-  - `devtool-setup.mp4`
-  - `guide.mp4`
-  - the JS files
+
+---
+
+## Learning Objectives
+
+- 🥚 **Code Audiences**: You can explain how a single file of code is understood
+  by:
+  - **Computers**: A computer follows the code's instructions one step at a
+    time.
+  - **Developers**: A developer reads the code, comments and variable names to
+    understand what the code is _intended_ to do.
+- 🐣 **Tracing Variables**: You can follow a program's instructions like the
+  computer does, filling out a _trace table_ and checking your work with the
+  [trace] button.
+
+---
 
 ## During Class
 
 The most important objective for today is that you learn how to trace variables
 the way a computer interprets them. If you don't understand this the rest of JS
-will be a mystery! and learn how to use devtools and debug your code.
+will be a mystery!
 
 ### Before Break
 
@@ -42,26 +55,13 @@ will be a mystery! and learn how to use devtools and debug your code.
   - Study examples 4 & 5 again with your classmates
   - Begin `tracing-variables/exercises`
 
----
-
-<img src="../../assets/computers-and-developers.svg" alt="rhetorical situation" style="height: 85%; width: 85%;">
-
----
-
-<a class="study-lens" href="../week-1/computers-and-developers/tracing-variables?study" target="_blank">
-Tracing Variables </a>
+**Break!**
 
 ### After Break
 
-- **All Together**: A coach demonstrates the debugger features in
-  `/1-isolate/examples`
-- **In Small Groups**: Practice stepping through and predicting the programs in
-  `/1-isolate/exercises`
-- **All Together**: A coach demonstrates how to step through JavaScript in an
-  HTML project with `/2-integrate/examples`
-- **In Small Groups**: Practice stepping through and predicting the programs in
-  `/2-integrate/exercises`
-- **All Together** Regroup with ~20 minutes left at the end of class for each
+- **In Small Groups**:
+  - Continue studying `tracing-variables/exercises`
+- **All Together** Regroup with ~30 minutes left at the end of class for each
   group to present:
   - what went well?
   - what went less well?
@@ -69,25 +69,23 @@ Tracing Variables </a>
 
 ---
 
-<a class="study-lens" href="../week-1/devtools-debugger/1-isolate?study" target="_blank">1. Isolate</a>
 <img src="../../assets/computers-and-developers.png" alt="rhetorical situation" style="height: 85%; width: 85%;">
 
 ---
 
-<a class="study-lens" href="../week-1/devtools-debugger/2-integrate?study" target="_blank">2.
-Integrate</a>
+<a class="study-lens" href="./tracing-variables?study" target="_blank">
+Tracing Variables </a>
 
 ---
 
 ## After Class
+
+No deliverables. Just lots of study time, alone and in groups. Here's some ideas
+for what to focus on:
 
 - 🥚 [compute-it](http://compute-it.toxicode.fr/) (all of it), 🐣
   [little-dot](http://little-dot.toxicode.fr/)
 - Continue studying your favorite online tutorials
 - Finish `/1-what-is-programming` and study as much as you can from
   `/2-just-enough-javascript`
-- `/0-flashcards`: ~20 minutes every day (add more cards as you go!)
-- Continue studying your favorite online tutorials
-- Finish studying `/2-just-enough-javascript` if you haven't yet
-- Study `/3-understanding-programs`
 - `/0-flashcards`: ~20 minutes every day (add more cards as you go!)
