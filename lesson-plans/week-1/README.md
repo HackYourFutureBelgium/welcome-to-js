@@ -70,6 +70,7 @@ Tracing Variables </a>
 ---
 
 <a class="study-lens" href="../week-1/devtools-debugger/1-isolate?study" target="_blank">1. Isolate</a>
+<img src="../../assets/computers-and-developers.png" alt="rhetorical situation" style="height: 85%; width: 85%;">
 
 ---
 

@@ -1,9 +1,0 @@
-{
-  "study": {
-    "eslint": false,
-    "loopGuard": false,
-    "ask": false,
-    "blanks": false,
-    "writeme": false
-  }
-}

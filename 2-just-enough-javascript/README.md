@@ -9,7 +9,7 @@ and interact with users. Why just enough, and not a little more? Because reading
 and understanding program logic is more important than JavaScript, so why let
 the code get in the way?
 
-In this directory is is all the JavaScript you will find in this module's
+In this directory is all the JavaScript you will find in this module's
 examples and exercises. Don't be mistaken, there's a lot you can do with only
 this!
 
@@ -59,7 +59,7 @@ rest go a lot smoother.
 #### `// prettier-ignore`
 
 The marking exercises will have an extra block around the code and a comment
-written before the block. You can ignore that. It's there Prettier doesn't
+written before the block. You can ignore that. It's there so that Prettier doesn't
 remove the extra spacing when it formats the code.
 
 ---
