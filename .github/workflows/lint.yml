@@ -14,7 +14,7 @@ jobs:
       - name: Install dependencies
         uses: actions/setup-node@v4
         with:
-          node-version: 'lts' # Install the latest LTS (Long-Term Support) version
+          node-version: '20.11.1' # Install the latest LTS (Long-Term Support) version
 
       - run: npm run format:check
 
