@@ -12,7 +12,14 @@
     "Bouncify",
     "Timlin",
     "racecar",
-    "Mirrorize"
+    "Mirrorize",
+    "Pieter",
+    "Ewin",
+    "Tugba",
+    "Jo",
+    "Olesandra",
+    "Lishan",
+    "exuted"
   ],
   "ignorePaths": ["node_modules/**", "**/*.json", "**/*.mp4", "**/*.svg"]
 }

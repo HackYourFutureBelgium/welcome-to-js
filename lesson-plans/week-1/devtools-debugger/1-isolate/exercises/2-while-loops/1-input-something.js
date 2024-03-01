@@ -1,10 +1,12 @@
 'use strict';
 
 let input = null;
-while (input === null) {
+
+// Infinite loop
+while (input === null) { 
   input = prompt('input something:');
 }
-
+// This line will never be reached due to the infinite loop
 alert('thank you!');
 
 /*  ===== Challenges =====

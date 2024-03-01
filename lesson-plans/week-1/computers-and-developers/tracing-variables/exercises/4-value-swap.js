@@ -9,20 +9,30 @@
 
 */
 
+// Declare a variable a and initialize it to the value 'y'
+// Declare a variable b and initialize it to the value 'x'
+// Declare variable t and initialize it to the value ''
 let a = 'y';
 let b = 'x';
 let t = '';
 
+// read the variable 'a' , 'b' , 't'
 console.log(a, b, t);
 
+// assign the variable t to 'y'
+// assign the variable a to 'x'
+// assign the variable b to 'y'
 t = a;
 a = b;
 b = t;
 
+// read the variable 'a' , 'b' , 't'
 console.log(a, b, t);
 
-// what did you do in this program?
-// what are the final values of `a` and `b`?
-// how are they changed from the initial values
+// what did you do in this program? swap the variables 'a','b'
 
-// is it possible to swap a and b without using t?
+// what are the final values of `a` and `b`? a = 'x', b = 'y'
+
+// how are they changed from the initial values? a 'y' => 'x' , b 'x' => 'y' ,t '' => 'y'
+
+// is it possible to swap a and b without using t? No
