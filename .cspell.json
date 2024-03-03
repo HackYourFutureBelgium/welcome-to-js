@@ -12,6 +12,8 @@
     "Bouncify",
     "Timlin",
     "racecar",
+    "Croll",
+
     "Mirrorize"
   ],
   "ignorePaths": ["node_modules/**", "**/*.json", "**/*.mp4", "**/*.svg"]
