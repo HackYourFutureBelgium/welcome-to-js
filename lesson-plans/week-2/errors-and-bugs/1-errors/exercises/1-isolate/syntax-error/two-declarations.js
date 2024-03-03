@@ -3,20 +3,22 @@
 console.log('--- in execution phase ---');
 
 /*
-  environment:
+  environment:Windows 10, chrome browser
 
-  name:
-  message:
+  name:Uncaught SyntaxError
+  message:Identifier 'tree' has already been declared
 
-  location:
+  location:line 22, column 5
 
-  life cycle:
+  life cycle:creation
 
-  the mistake:
+  the mistake:Identifier 'tree' has already been declared
 
-  the fix(es):
+  the fix(es): remoe second decaltion for tree and assign the values
 */
 
 let tree = 'oak';
 
-let tree = 'birch';
+tree = 'birch';
+
+console.log(tree);

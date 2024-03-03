@@ -7,21 +7,22 @@ console.log('--- in execution phase ---');
 
 
 /*
-  environment:
+  environment:Windows 10, chrome browser
 
-  name:
-  message:
+  name:Uncaught SyntaxError
+  message:Unexpected number
 
-  location:
+  location:line 25, column 7
 
-  life cycle:
+  life cycle:Creation
 
-  the mistake:
+  the mistake:Unexpected number
 
-  the fix(es):
+  the fix(es):decalre a and print the value
 */
 
 
-const 3 = 'three';
+const a = 'three \n3';
+console.log (a);
 
 

@@ -8,15 +8,15 @@
     'abcdef' -> 'too long'
 
   experiment 1
-    line:
-    why:
+    line:fix line 19
+    why:correct equal operator and remove extra bracket from if loop
     trying:
 
 */
 
 let input = prompt('enter something 5 characters long');
 
-if ((input = null)) {
+if (input == null) {
   alert(':(');
 } else if (input.length < 5) {
   alert('too short');

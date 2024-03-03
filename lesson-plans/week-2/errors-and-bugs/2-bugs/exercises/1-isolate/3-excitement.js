@@ -9,9 +9,9 @@
 
 
   experiment 1
-    line:
-    why:
-    trying:
+    line:25
+    why:variable excited was loosing value as it moves forward to next value for input
+    trying:store value of excited somehow and try again
 
 */
 
@@ -22,7 +22,8 @@ while (text === null) {
 
 let excited = '';
 for (const character of text) {
-  excited = character + '!';
+  excited += character + '!'; //Before we were loosing value of previous variable so we changed the code to store valuee of excited
+
 }
 
 alert(excited);

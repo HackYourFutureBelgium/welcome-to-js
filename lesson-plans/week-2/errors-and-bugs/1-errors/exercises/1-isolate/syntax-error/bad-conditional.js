@@ -6,25 +6,25 @@ console.log('--- in execution phase ---');
 
 
 /*
-  environment:
+  environment:Windows 10, chrome browser
 
-  name:
-  message:
+  name:Uncaught SyntaxError
+  message:Unexpected token
 
-  location:
+  location:line 27, column 30
 
-  life cycle:
+  life cycle:Creation error
 
-  the mistake:
+  the mistake:Unexpected token
 
-  the fix(es):
+  the fix(es): declare else condition correctly. use else if in second body
 */
 
 let userName = 'indrogo';
 
 if (userName.length < 3) {
   console.log('too short');
-} else (userName.length < 5) {
+} else if (userName.length < 5) {
   console.log('just right');
 } else {
   console.log('too long');
