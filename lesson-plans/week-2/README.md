@@ -11,9 +11,11 @@ Practice fixing errors and bugs in a program and how to write and review code.
 
 ### Before Break
 
-- **All Together**: [Errors](../week-2/errors-and-bugs/1-errors/README.md?--defaults)
+- **All Together**:
+  [Errors](../week-2/errors-and-bugs/1-errors/README.md?--defaults)
 - **In Small Groups**: Practice the exercises in `./1-errors`
-- **All Together**: [Bugs](../week-2/errors-and-bugs/2-bugs/README.md?--defaults)
+- **All Together**:
+  [Bugs](../week-2/errors-and-bugs/2-bugs/README.md?--defaults)
 - **In Small Groups**: Practice the exercises in `./2-bugs`
 - **All Together** Regroup with ~20 minutes left at the end of class for each
   group to present:
@@ -45,7 +47,8 @@ Practice fixing errors and bugs in a program and how to write and review code.
 
 ---
 
-<a href="../week-2/writing-and-reviewing/bouncify?stepped" target="_blank">The Challenge: Bouncify</a>
+<a href="../week-2/writing-and-reviewing/bouncify?stepped" target="_blank">The
+Challenge: Bouncify</a>
 
 ---
 

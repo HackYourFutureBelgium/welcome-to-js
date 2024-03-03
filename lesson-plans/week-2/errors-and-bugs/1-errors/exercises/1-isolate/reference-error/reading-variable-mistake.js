@@ -3,20 +3,20 @@
 console.log('--- in execution phase ---');
 
 /*
-  environment:
+  environment:Browser, Chrome, Windows 10
 
-  name:
-  message:
+  name:Uncaught ReferenceError: Cannot access 'tomatoes' before initialization
+  message:Cannot access 'tomatoes' before initialization
 
-  location:
+  location: Line number 20 column 13
 
-  life cycle:
+  life cycle: in execution phase
 
-  the mistake:
+  the mistake: tomatoes should be declared before
 
-  the fix(es):
+  the fix(es):tomatoes should be declared before
 */
-
+let tomatoes = 'fresh';
 console.log(tomatoes);
 
-let tomatoes = 'fresh';
+

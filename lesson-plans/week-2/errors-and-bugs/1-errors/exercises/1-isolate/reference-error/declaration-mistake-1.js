@@ -3,20 +3,21 @@
 console.log('--- in execution phase ---');
 
 /*
-  environment:
+  environment: Browser, Chrome, Windows 10
 
-  name:
-  message:
+  name:Uncaught ReferenceError, welf is not defined
+  message:welf is not defined
 
-  location:
+  location:Line number 20, Column 6
 
-  life cycle:
+  life cycle:Execution Phase
 
-  the mistake:
+  the mistake:Welf is not defined
 
-  the fix(es):
+  the fix(es):declare welf
 */
 
+let welf;
 welf = 'ingrad';
 
 console.log(welf);

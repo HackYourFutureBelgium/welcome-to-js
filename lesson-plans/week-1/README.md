@@ -69,7 +69,8 @@ Tracing Variables </a>
 
 ---
 
-<a class="study-lens" href="../week-1/devtools-debugger/1-isolate?study" target="_blank">1. Isolate</a>
+<a class="study-lens" href="../week-1/devtools-debugger/1-isolate?study" target="_blank">1.
+Isolate</a>
 
 ---
 
